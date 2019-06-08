@@ -20,7 +20,7 @@ You can run the assignments by iterating these steps:
   ```
   3. Run the command below with different n parameters as input to see results of different section of the assignment:
   ```sh
-    $ python exercisexx.py -n t
+    $ python main.py -n t
   ```
  Where t is the name of a subsection of the assignment (i.e 'a' or 'b')
     
