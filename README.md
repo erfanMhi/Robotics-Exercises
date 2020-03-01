@@ -1,4 +1,4 @@
-# Robotics-Exercises
+# Introduction to Robotics book Programming Assignments
     Solutions for the Introduction to Robotics book Programming Exercises
 ## Prerequisites
 1. Install [Numpy](https://www.continuum.io/downloads "Anaconda Official Website")
